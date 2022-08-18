@@ -23,7 +23,7 @@ emoji_dict = {
     "cyan": ":blue_square:",
     "lime": ":green_square:",
     "blue": ":stop_button:",
-    "purple": "purple_square"
+    "purple": ":purple_square:"
 }
 
 # methods
